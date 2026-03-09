@@ -1,4 +1,4 @@
-# StudyManager API
+# Atividade API
 
 API RESTful para gerenciamento de usuários, cursos e matrículas, construída com FastAPI e SQLAlchemy.
 
